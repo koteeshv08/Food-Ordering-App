@@ -7,3 +7,8 @@ Typescript is a superscript of javascript which allows use to OOP's concepts lik
 Though files are in typescript, they will be compiled to javascript.
 npm i -D @types/chai
 npm i -D @types/mocha
+npm i -D @types/bcrypt
+npm i jsonwebtoken [----->jwt]
+npm i express
+To test express routes, we use a package called supertest instead of POSTMAN to test on live/dev server
+npm i -D supertest

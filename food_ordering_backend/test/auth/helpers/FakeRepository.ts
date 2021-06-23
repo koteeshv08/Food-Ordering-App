@@ -8,7 +8,7 @@ export default class FakeRespository implements IAuthRepository {
             email: 'example@gmail.com',
             id: '1234',
             name: 'Kim',
-            password: '$2b$10$K0HEqyYUlQLaj.Xkp9tDzuRclzJqdKCYV7gEHtSVIlu8NRtLM6flC',
+            password: 'pass1234',
             type: 'email'
         },
         {
