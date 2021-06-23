@@ -1,0 +1,8 @@
+{
+  "files.exclude": {
+    ".vscode": true,
+    "mochaExplorer.files": "food_ordering_backend/test/**/*.spec.ts",
+    "mochaExplorer.require": "ts-node/register",
+    "food_ordering_backend/node_modules": true
+  }
+}
