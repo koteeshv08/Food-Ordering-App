@@ -1,0 +1,22 @@
+{
+  "name": "food_app_backend",
+  "version": "1.0.0",
+  "description": "Backend for Food Ordering App using Typescript and Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --require ts-node/register --watch-extensions ts 'test/**/*.spec.ts' -timeout 5000"
+  },
+  "author": "Koteesh",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/chai": "^4.2.19",
+    "@types/chai-as-promised": "^7.1.4",
+    "@types/mocha": "^8.2.2",
+    "chai": "^4.3.4",
+    "chai-as-promised": "^7.1.1",
+    "mocha": "^9.0.1",
+    "ts-node": "^10.0.0",
+    "typescript": "^4.3.4"
+  }
+}

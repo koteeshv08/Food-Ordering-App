@@ -1,0 +1,9 @@
+First download node and typescript 
+Then run npm -i -D typescript ts-node mocha chai
+[mocha is for running test scripts]
+Run npx tsc --init 
+Uncomment lib in tsconfig.json file and add ["ES2015"]
+Typescript is a superscript of javascript which allows use to OOP's concepts like Inheritance and Data abstraction.
+Though files are in typescript, they will be compiled to javascript.
+npm i -D @types/chai
+npm i -D @types/mocha
